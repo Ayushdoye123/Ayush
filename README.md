@@ -1,5 +1,5 @@
 # Ayush
-<title>my first websit</title>
+my first websit
                
     <p> An atom is very  tiny. Then  how do we determine its mass? Scientist to o, faced this question . it was not possible for scientist s of the 19th century to measure atomic mass accurately. Therefore, the concept of ‘relative mass of an atom’ was put forth. A reference  atom was required for  expressing the relative mass of an atom. The hidrogen atom being the lightest was  initially  chosen as the reference atom. The relative mass of hidrogen atom which has only one proton in its nucleus was accepted as one (1).therefor, the magnitude of the relative atomic masses of various atoms  become equal to their atomic mass number (p+n).
              Let us see how to express the relative mass of a nitrogen atom, having accepted the relative atomic mass of hydrogen as  1.
