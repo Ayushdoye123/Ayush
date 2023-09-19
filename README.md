@@ -1,5 +1,5 @@
 # Ayush
-my first website
+<title>my first websit</title>
                
     <p> An atom is very  tiny. Then  how do we determine its mass? Scientist to o, faced this question . it was not possible for scientist s of the 19th century to measure atomic mass accurately. Therefore, the concept of ‘relative mass of an atom’ was put forth. A reference  atom was required for  expressing the relative mass of an atom. The hidrogen atom being the lightest was  initially  chosen as the reference atom. The relative mass of hidrogen atom which has only one proton in its nucleus was accepted as one (1).therefor, the magnitude of the relative atomic masses of various atoms  become equal to their atomic mass number (p+n).
              Let us see how to express the relative mass of a nitrogen atom, having accepted the relative atomic mass of hydrogen as  1.
@@ -8,3 +8,5 @@ my first website
  An atom is very tiny. Then how do we determine its mass?scientist too, faced  this question. It was not possible for scientists of 19th century to measure atomic mass accurately. Therefore the concept of ‘relative mass of an atom’ was  put fourth. A reference atom was required for expressing the relative mass of an atom. The hydrogen atom which has only one proton in its nucieus was accepted as one (1).therefore, the magnitude of the relative atomic masses of various atoms become equal to their atomic mass number  (p+n).
 Let us see how to express the relative mass of a nitrogen atom , having accepted the relative atomic mass of hydrogen as 1.
 The mass of one nitrogen atom is fourteen (14) times that of hydrogen atom. Therefore, the relative mass of a nitrogen atom is 14.This is how the relative atomic masses of various elements were determined. On this scale,the relative atomic masses of many elements  came out to be fractional. Therefore, in the course of time, some other atoms were chosen as reference atoms. Finally in 1961, the carbon atom was selected as the reference atom. In this scale, the relatiive mass a carbon atom was acccepted as 12. The relative atomic mass of one hydrogen atom compered to the carbon atom become 12x 1/12, that is 1. The mass of one proton and of one neutron on the scale of relative atomic masses  is approximately 1.</p>
+<imgsrc="bird.jpg"alt=Bird"
+Width="104"height=142">
